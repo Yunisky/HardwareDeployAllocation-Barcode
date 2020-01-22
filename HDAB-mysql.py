@@ -11,7 +11,7 @@ print("    |_| \__,_|_| |_|_|___/_|\_\\\__  |")
 print("                                __/ /")
 print("                               |___/ ")
 print()
-print("Copyright © 2019 Jinane Yunisky Infotech Co.,Ltd. All rights reserved.  ")
+print("Copyright © 2019 Jinan Yunisky Infotech Co.,Ltd. All rights reserved.  ")
 print()
 def barec():
     img = Image.open(jpg)
